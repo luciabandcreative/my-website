@@ -1,4 +1,3 @@
-# my-website
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -21,7 +20,7 @@
   </main>
 
   <footer>
-    <p>© 2025 Your Name</p>
+    <p>© 2025 Lucia Bandremer</p>
   </footer>
 </body>
 </html>
